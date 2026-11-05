@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Frenil Vaghasia — Full Stack Developer</title>
+  <desc id="description">A dark charcoal banner with an orange accent and orbital line illustration.</desc>
+  <defs>
+    <radialGradient id="glow" cx="83%" cy="48%" r="58%">
+      <stop offset="0" stop-color="#663421"/>
+      <stop offset="1" stop-color="#171717"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#glow)"/>
+  <g fill="none" stroke="#fc6b2f" stroke-opacity=".42" stroke-width="1.5">
+    <ellipse cx="1010" cy="156" rx="100" ry="143" transform="rotate(28 1010 156)"/>
+    <ellipse cx="1010" cy="156" rx="100" ry="143" transform="rotate(-28 1010 156)"/>
+    <circle cx="1010" cy="156" r="118"/>
+  </g>
+  <circle cx="1097" cy="77" r="5" fill="#fc6b2f"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="66" y="76" fill="#fc6b2f" font-size="16" font-weight="700" letter-spacing="4">PORTFOLIO · GUJARAT, INDIA</text>
+    <text x="62" y="168" fill="#f5f1ed" font-size="62" font-weight="700" letter-spacing="-2">Frenil Vaghasia<tspan fill="#fc6b2f">.</tspan></text>
+    <text x="66" y="218" fill="#d0c8c1" font-size="25">Full Stack Developer · Computer Engineering Student</text>
+    <path d="M66 263H1134" stroke="#fff" stroke-opacity=".17"/>
+    <text x="66" y="294" fill="#fc6b2f" font-size="16">frenil.tech</text>
+    <text x="1134" y="294" fill="#bdb7b2" font-size="15" text-anchor="end">Building practical web and mobile products</text>
+  </g>
+</svg>
